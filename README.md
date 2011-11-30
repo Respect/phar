@@ -5,6 +5,7 @@ These phar files are generated from the last PEAR package published (stable, bet
 
 * [Validation.phar](http://respect.li/phar/Validation.phar)
 * [Config.phar](http://respect.li/phar/Config.phar)
+* [Rest.phar](http://respect.li/phar/Rest.phar)
 * (More Respect packages soon. If you want a specific one, please open an issue)
 
 To use them, just drop in the phar and require it. Yep, is that easy.
