@@ -1,7 +1,11 @@
 Respect drop-in phar files
 ==========================
 
-These phar files are generated from the last PEAR package published (stable, beta or alpha).
+These phar files are generated from the last PEAR package published (stable, beta or alpha):
+
+* [Validation.phar](http://respect.li/phar/Validation.phar)
+* [Config.phar](http://respect.li/phar/Config.phar)
+* (More Respect packages soon. If you want a specific one, please open an issue)
 
 To use them, just drop in the phar and require it. Yep, is that easy.
 
